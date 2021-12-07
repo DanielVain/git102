@@ -1,0 +1,7 @@
+body {
+	background-color: lightsalmon;
+}
+div#root {
+	background-color: greenyellow;
+	color: red;
+}
